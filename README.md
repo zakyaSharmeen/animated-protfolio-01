@@ -1,3 +1,12 @@
+# used in making-
+
+1-materialui
+2-aos package
+3-typewritter
+4-react-slick carsoul
+5-react router dom
+6-react-countup
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
